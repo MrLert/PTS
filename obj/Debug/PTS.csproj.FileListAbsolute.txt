@@ -1,9 +1,0 @@
-c:\users\дмитрий\documents\visual studio 2017\Projects\PTS\PTS\bin\Debug\PTS.exe.config
-c:\users\дмитрий\documents\visual studio 2017\Projects\PTS\PTS\bin\Debug\PTS.exe
-c:\users\дмитрий\documents\visual studio 2017\Projects\PTS\PTS\bin\Debug\PTS.pdb
-c:\users\дмитрий\documents\visual studio 2017\Projects\PTS\PTS\obj\Debug\PTS.csprojResolveAssemblyReference.cache
-c:\users\дмитрий\documents\visual studio 2017\Projects\PTS\PTS\obj\Debug\PTS.csproj.ResolveComReference.cache
-c:\users\дмитрий\documents\visual studio 2017\Projects\PTS\PTS\obj\Debug\PTS.Properties.Resources.resources
-c:\users\дмитрий\documents\visual studio 2017\Projects\PTS\PTS\obj\Debug\PTS.csproj.GenerateResource.Cache
-c:\users\дмитрий\documents\visual studio 2017\Projects\PTS\PTS\obj\Debug\PTS.exe
-c:\users\дмитрий\documents\visual studio 2017\Projects\PTS\PTS\obj\Debug\PTS.pdb
