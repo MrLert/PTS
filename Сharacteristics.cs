@@ -1,25 +1,26 @@
 ﻿namespace PTS
 {
-    struct Сharacteristics
+    public struct Сharacteristics
     {
-        string name;                                //Наименование
-        double weight;                              //Масса 
-        double length;                              //Длина 
-        double width;                               //Ширина
-        double height;                              //Высота
-        double centerOfGravity;                     //Высота ЦТ
-        double Lpr;                                 //Lпр
-        double Bp;                                  //Bп
-        double L_CT;                                //Расстояние от поперечного борта вагона до Цт
-        double B_CT;                                //Расстояние от продольного борта вагона до Цт
-        double coefficientOfFriction;               //коэф трения
-        double heightOfLongitudinal;                //Высота продольного  упора от основания груза
-        double heightOfTransverse;                  //Высота поперчного упора от основания груза
-        double windwardSurfaceArea;                 //Площадь наветренной поверхности
-        double heightAboveFloor;                    //Высота груза над полом вагона
-        double HeightOfProtruding;                  //Высота выступающей части от бортов полувагона
-        double coefficientOfFrictionTransverse;     //поперечный коэф трения
-        double additionalLongitudinalLoad;          //Дополнительная продольная нагрузка от грузов №
-        double additionalLateralLoad;               //Дополнительная поперечная нагрузка от грузов №
+        public int number;
+        public string name; //Наименование
+        public double weight; //Масса 
+        public double length; //Длина 
+        public double width; //Ширина
+        public double height; //Высота
+        public double centerOfGravity; //Высота ЦТ
+        public double Lpr; //Lпр
+        public double Bp; //Bп
+        public double L_CT; //Расстояние от поперечного борта вагона до Цт
+        public double B_CT; //Расстояние от продольного борта вагона до Цт
+        public double coefficientOfFriction; //коэф трения
+        public double heightOfLongitudinal; //Высота продольного  упора от основания груза
+        public double heightOfTransverse; //Высота поперчного упора от основания груза
+        public double windwardSurfaceArea; //Площадь наветренной поверхности
+        public double heightAboveFloor; //Высота груза над полом вагона
+        public double HeightOfProtruding; //Высота выступающей части от бортов полувагона
+        public double coefficientOfFrictionTransverse; //поперечный коэф трения
+        public double additionalLongitudinalLoad; //Дополнительная продольная нагрузка от грузов №
+        public double additionalLateralLoad; //Дополнительная поперечная нагрузка от грузов №
     }
 }

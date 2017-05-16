@@ -1,6 +1,6 @@
 ﻿namespace PTS
 {
-    partial class Form1
+    partial class PTS
     {
         /// <summary>
         /// Обязательная переменная конструктора.
